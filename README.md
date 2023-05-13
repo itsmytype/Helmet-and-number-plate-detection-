@@ -1,2 +1,3 @@
 # Helmet-and-number-plate-detection-
 Helmet and number plate detector using machine learning algorithms.
+This project of automated helmet detection uses methods of machine learning to categorize  vehicles as two wheelers or not and if it’s a two-wheeler then recognize the head part as the  person wearing the helmet or not. If the rideror the pillion is not wearing the helmet, then the  image of the person with the vehicle is captured. Using different mechanisms, the number plate of the vehicleis recognized as the string of characters and numbers and stored in a database the details of the vehicle number plate and the captured images as the proof. Using this data fines can be imposed on the riders who repeated commit themistake of not wearing the helmet.
